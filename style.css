@@ -1,27 +1,44 @@
 body {
-    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-family: "Arial", "Helvetica Neue", Helvetica, sans-serif;
     color: #777;
     background: #777;
     width: 960px;
     font-size: 18px;
+    margin-left: 150px;
+    text-align: center;
 }
 
 .header, .nav {
     background: #ebebeb;
-    text-align: center;
     padding-top: 40px;
     padding-bottom: 40px;
 }
 
 .header {
     margin-top: 0px;
-    margin-bottom: -15px;
+    margin-bottom: 8px;
 }
 
 .section {
     background: #ebebeb;
-    text-align: center;
     padding-top: 35px;
     padding-bottom: 300px;
     width: 600px;
+    margin-top: 15px;
+}
+
+.article {
+    color: #ebebeb;
+    background-color: #777;
+    width: 550px;
+    margin-left: 25px;
+    margin-top: 30px;
+    padding-top: 20px;
+}
+
+.h1, .p {
+    color: #777;
+    background-color: #ebebeb;
+    width: 400px;
+    margin-left: 75px;
 }
