@@ -8,7 +8,7 @@ body {
     text-align: center;
 }
 
-.header, .nav {
+.header, .nav, .footer {
     background: #ebebeb;
     padding-top: 40px;
     padding-bottom: 40px;
@@ -62,4 +62,8 @@ body {
     margin-left: 610px;
     margin-top: -55px;
     padding-top: 35px;
+}
+
+.footer {
+    margin-top: 15px;
 }
