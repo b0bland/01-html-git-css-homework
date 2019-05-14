@@ -48,8 +48,18 @@ body {
 
 .h1 {
     margin-top: 20px;
+    font-weight: bold;
 }
 
 .p {
     margin-top: -15px;
+}
+
+.aside {
+    color: #777777;
+    background-color: #ebebeb;
+    width: 350px;
+    margin-left: 610px;
+    margin-top: -55px;
+    padding-top: 35px;
 }
