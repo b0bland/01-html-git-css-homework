@@ -12,7 +12,7 @@ body {
     background: #ebebeb;
     padding-top: 40px;
     padding-bottom: 40px;
-    margin-bottom: 30px;
+    margin-bottom: 25px;
 }
 
 .header {
@@ -34,7 +34,7 @@ body {
     background-color: #777;
     width: 550px;
     margin-left: 25px;
-    margin-top: 30px;
+    margin-top: 25px;
     padding-top: 20px;
     padding-bottom: 20px;
 }
@@ -63,14 +63,13 @@ body {
     padding-top: 35px;
     float: left;
     width: 330px;
-    padding-bottom: 237px;
+    padding-bottom: 232.5px;
 }
 
 .footer {
-    margin-top: 15px;
+    margin-top: 25px;
+    display: inline-block;
+    width: 100%;
 }
 
-.midpage {
-    margin: 0 auto;
-}
 
