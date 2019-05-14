@@ -12,6 +12,7 @@ body {
     background: #ebebeb;
     padding-top: 40px;
     padding-bottom: 40px;
+    margin-bottom: 30px;
 }
 
 .header {
@@ -24,7 +25,8 @@ body {
     padding-top: 35px;
     padding-bottom: 20px;
     width: 600px;
-    margin-top: 15px;
+    float: left;
+    margin-right: 30px;
 }
 
 .article {
@@ -58,12 +60,17 @@ body {
 .aside {
     color: #777777;
     background-color: #ebebeb;
-    width: 350px;
-    margin-left: 610px;
-    margin-top: -55px;
     padding-top: 35px;
+    float: left;
+    width: 330px;
+    padding-bottom: 237px;
 }
 
 .footer {
     margin-top: 15px;
 }
+
+.midpage {
+    margin: 0 auto;
+}
+
